@@ -1,0 +1,3 @@
+# Drum-Kit
+
+The given code is a JavaScript code for a drum kit application. It allows users to play different drum sounds by either clicking on the drum buttons or pressing corresponding keys on the keyboard. The code uses event listeners to detect button clicks and key presses, and then calls the `makeSound()` function to play the corresponding audio file for the drum sound. Additionally, the code includes a `buttonAnimation()` function that adds a visual effect to the pressed drum button by adding a CSS class temporarily. The HTML file contains the structure of the drum kit interface with buttons representing different drums, and it links the JavaScript code to the HTML file. Overall, the code enables users to interact with the drum kit and produce sounds.
